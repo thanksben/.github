@@ -5,6 +5,7 @@
 ## Type of change
 - [ ] Bug fix (fixes an issue)
 - [ ] New feature (adds functionality)
+- [ ] Maintenance (documentation, refactoring, or chore tasks)
 
 ## Related issues
 
