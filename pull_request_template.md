@@ -1,29 +1,14 @@
-## Change description
+## Overview
 
-> Description here
+* Problem: (Explain the problem concisely you are trying to solve)
+* Solution: (Explain the solution/approach/what changed concisely)
 
-## Type of change
-- [ ] Bug fix (fixes an issue)
-- [ ] New feature (adds functionality)
-- [ ] Maintenance (documentation, refactoring, or chore tasks)
+## Description
 
-## Related issues
+(Explain your changes. Screenshots are often useful)
 
-> Fix [#1]() 
+## Contexts
 
-## Checklists
+JIRA: [DEV-000](URL)
 
-### Development
-
-- [ ] Application changes have been tested thoroughly
-- [ ] Automated tests covering modified code pass
-
-### Security
-
-- [ ] Security impact of change has been considered
-- [ ] Code follows company security practices and guidelines
-
-### Code review 
-
-- [ ] Pull request has a descriptive title and context useful to a reviewer. Screenshots or screencasts are attached as necessary
-- [ ] Pull request linked to task tracker where applicable
+[Pull Request Guide](https://docs.github.com/en/enterprise-server@3.12/pull-requests/collaborating-with-pull-requests/getting-started/helping-others-review-your-changes#provide-context-and-guidance)
